@@ -3,9 +3,6 @@ title "PingPong"
 .386
 .stack 64
 ;Equipo 2
-;Gomez Garcia Luis David
-;Santos Carranza Alexis
-;Martinez Hernandez Brandom 
 .data
     ; Datos de la pelota
     posX db 36  ; Posición X inicial (columna)
